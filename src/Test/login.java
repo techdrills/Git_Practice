@@ -5,7 +5,7 @@ public class login {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		String name = "rushi";
+		String name = "mahesh";
 		
 		if(name == "rushi") {
 			System.out.println("Hi this is rushikesh");
